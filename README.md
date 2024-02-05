@@ -1,4 +1,4 @@
-學習重點
+Python練習
 
 1.selenium應用
 
