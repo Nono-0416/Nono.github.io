@@ -1,7 +1,6 @@
 import requests
 import urllib.request as req
 import bs4
-from bs4 import BeautifulSoup
 
 number = str(input("請輸入代號:"))
 
