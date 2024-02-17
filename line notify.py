@@ -28,7 +28,7 @@ result = (name.text + '：' + "股價:" + price.text + " 漲跌:" + s + change.t
 
 #LINE API
 url = 'https://notify-api.line.me/api/notify'
-token = 'FYlnKlezZGYlHmaAT6i25WiRWmQNSqFHHEXiHNNvVMm'
+token = '' #輸入自己的token
 headers = {
     'Authorization': 'Bearer ' + token    # 設定權杖
 }
