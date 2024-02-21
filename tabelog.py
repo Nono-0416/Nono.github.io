@@ -26,7 +26,6 @@ while True:
         m = r.find_all("span",{"class":"c-rating__val"})
         # 屬性: 區塊["href"]
         # 一個型態可以擁有兩種東西 1. 專屬功能  2. 專屬值
-        # 專屬功能: 人.吃飯()   專屬值: 人.身高
         # 顯示內容(專屬值): 區塊.text
         print(en.text,ja.text)
         print("評價",s.text)
